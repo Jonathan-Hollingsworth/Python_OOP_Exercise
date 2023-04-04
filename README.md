@@ -20,7 +20,7 @@ wordfinder.py contains two classes with doctests for each
 
 Python serial number generator
 
-## SerialGenerator
+### SerialGenerator
 
 - Machine to create unique incrementing serial numbers  
 - serial = SerialGenerator(start=100)  
